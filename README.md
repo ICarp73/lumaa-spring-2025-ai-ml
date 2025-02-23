@@ -1,4 +1,4 @@
-The data set is on Kaggle. You do have to have an account with Kaggle to download, but it is free.
+The dataset is on Kaggle. You do have to have an account with Kaggle to download, but it is free.
 The link to download the dataset:
 https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags?resource=download
 
@@ -8,12 +8,15 @@ The python version used is 3.9.12, and I used a virtual environment in Jupyter N
 To set up the virtual environment for Jupyter Notebook follow these instructions and run the following code in your terminal:
 
 Step 1: (firstEnv is a placeholder name for your virtual environment)
+
 conda create --name firstEnv
 
 Step 2:
+
 conda install -c anaconda ipykernel
 
 Step 3:
+
 python -m ipykernel install --user --name=firstEnv
 
 Now you should be able to create a notebook within Jupyter Notebook that runs within your new environment.
