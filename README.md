@@ -1,4 +1,5 @@
-The dataset is on Kaggle. You do have to have an account with Kaggle to download, but it is free.
+The dataset is on Kaggle. Unfortunately, due to the file size I am unable to upload the data file here.
+You do have to have an account with Kaggle to download, but it is free to create an account and download.
 The link to download the dataset:
 https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags?resource=download
 
